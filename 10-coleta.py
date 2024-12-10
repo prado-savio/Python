@@ -1,4 +1,8 @@
 # https://www.infomoney.com.br/cotacoes/b3/indice/ibovespa/historico/
+# BeautifulSoup = Uma biblioteca Python usada para extrair dados de arquivos HTML e XML. 
+#                 Ela cria uma árvore de análise a partir das páginas web que podem ser usadas para 
+#                 extrair dados de maneira eficiente
+
 
 import requests                     # importa todo módulo
 from bs4 import BeautifulSoup       # importa apenas a classe BeautifulSoup
